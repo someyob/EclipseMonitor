@@ -54,7 +54,6 @@ led.on()
 time.sleep(0.5)
 led.off()
 
-counter = 60
 average = 0.0
 try:
     while True:
